@@ -1,4 +1,10 @@
 # https://git-scm.com/docs/gitignore
 
+# Whole directories and contained content
 /History/*
+/__Previews/*
+/*Project Outputs*/
+/*Project Logs*/
 /new/
+
+# Files generated in project directory
