@@ -3,8 +3,8 @@
 # Whole directories and contained content
 /History/*
 /__Previews/*
-/*Project Outputs*/
-/*Project Logs*/
-/new/
+/Project Outputs*/
+/Project Logs*/
 
-# Files generated in project directory
+/LIB/History/
+/new/
